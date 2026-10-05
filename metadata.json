@@ -1,0 +1,6 @@
+{
+  "name": "VALENCE Gaming Gear & Custom Rigs",
+  "description": "High-performance gaming hardware, custom liquid-cooled battlestations, mechanical keyboards, and tournament-grade peripherals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
